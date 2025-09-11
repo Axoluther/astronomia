@@ -1,0 +1,5 @@
+imgs
+*.csv
+!GlobalTemperatures.csv
+*.zip
+Tarea1_EDA_2025_CC.pdf
