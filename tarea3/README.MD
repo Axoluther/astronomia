@@ -52,3 +52,8 @@ El primer análisis de ``outliers``. Se elige para explorar si existen relacione
 - Gráfico de los volcanes que erupcionaron de clasificación de VEI mayor a 6 en el mundo
 - Análisis de la temperatura del continente Oceanía usando u top 700 outliers (ya que cada ciudad tiene outliers, se llenaría de puntos) + marca de volcanes activos en oceanía (por tener tantos volcanes de categoría alta que erupcionaron)
 - Lo mismo pero gráfico usando HDBSCAN
+
+
+# Otras cosas relevantes
+Dentro de la carpeta `datasets` se encuentra los datos usados `.csv`.
+El gif `delta_temp_animation.gif` es la animación de la gráfica del `notebook_1.ipynb`
